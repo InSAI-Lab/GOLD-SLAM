@@ -15,9 +15,6 @@ Download WHOLE recordings and sensor calibration from [Hugging Face](https://hug
 ## Video
 
 https://github.com/user-attachments/assets/066ef3c1-db08-4e02-b15a-578a183a9527
-
-[Download the full-resolution video](https://github.com/InSAI-Lab/GOLD-SLAM/releases/download/supplementary-video/GOLD-SLAM_supplementary_120MB_authors.mp4)
-
 ## Reconstruction demos
 
 <p align="center"><strong>Oxford Spires · ChristChurch03</strong><br><img src="docs/assets/showcase/christchurch03.webp" width="640" alt="GOLD-SLAM reconstruction of Oxford Spires ChristChurch03"></p>
