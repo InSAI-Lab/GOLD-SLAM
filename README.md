@@ -14,7 +14,7 @@ Download WHOLE recordings and sensor calibration from [Hugging Face](https://hug
 
 ## Video
 
-https://github.com/user-attachments/assets/6522ef4f-9993-4114-9f89-fd053d1bb468
+https://github.com/user-attachments/assets/066ef3c1-db08-4e02-b15a-578a183a9527
 
 [Download the full-resolution video](https://github.com/InSAI-Lab/GOLD-SLAM/releases/download/supplementary-video/GOLD-SLAM_supplementary_120MB_authors.mp4)
 
