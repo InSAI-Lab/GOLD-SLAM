@@ -4,7 +4,8 @@
 
 **Gaussian-splatting Omnidirectional LiDAR-Depth SLAM**
 
-[Video](#video) · [Demos](#reconstruction-demos) · [System overview](#system-overview)
+[![Paper](https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge)](https://arxiv.org/abs/2611.32335)
+[![Project Page](https://img.shields.io/badge/Project%20Page-B2582C?style=for-the-badge)](https://insailab.org/GOLD-SLAM/)
 
 </div>
 
