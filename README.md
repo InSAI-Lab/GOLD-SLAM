@@ -45,3 +45,17 @@ https://github.com/user-attachments/assets/066ef3c1-db08-4e02-b15a-578a183a9527
 ## Acknowledgement
 
 We thank the authors and contributors of [FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2), [Gaussian-LIC2](https://github.com/APRIL-ZJU/Gaussian-LIC), [DAP](https://github.com/Insta360-Research-Team/DAP), and [ODGS-SLAM](https://github.com/odgs-slam/odgs-slam) for sharing their work.
+
+## Citation
+
+```bibtex
+@article{zhang2026goldslam,
+  title   = {{GOLD-SLAM}: Gaussian-splatting Omnidirectional {LiDAR}-Depth {SLAM}},
+  author  = {Weicong Zhang and Yuan Huang and Yu Zheng and Lin Chenxiao and
+             Yingying Li and Lilong Fan and Liangdong Zhuang and Yufan Chen and
+             Ruiping Liu and Junwei Zheng and Jiaming Zhang},
+  journal = {arXiv preprint arXiv:2611.32335},
+  year    = {2026},
+  doi     = {10.48550/arXiv.2611.32335}
+}
+```
